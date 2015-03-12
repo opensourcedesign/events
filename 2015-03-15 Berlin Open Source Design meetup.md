@@ -25,6 +25,7 @@ Near U7-Südstern stop
 * design slide decks that we can present at conferences and to interested people
 * work on a proper opensourcedesign.net website
 * creating a job board which brings together projects with design needs and designers willing to help
+* figure out how to make the IRC channel more accessible to e.g. designers 
 * … add your plans!
 
 
@@ -33,5 +34,6 @@ Near U7-Südstern stop
 * [Brennan Novak](https://github.com/bnvk)
 * [Jan-Christoph Borchardt](https://github.com/jancborchardt)
 * [Danila Pellicani](https://github.com/danilapellicani)
+* [Kristina Schneider](https://github.com/kriesse)
 * … add yourself!
 
