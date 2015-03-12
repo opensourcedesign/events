@@ -6,10 +6,13 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 ## Date & location
 
 Date: Sun, 15 March 2015
+
 Time: 13:00–18:00
 
 The Crypto Palace (aka @bnvk's haus)
+
 Gneisenaustraße 52,
+
 Kreuzberg, Berlin
 
 Near U7-Südstern stop
