@@ -28,4 +28,5 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 * [Danila Pellicani](https://github.com/danilapellicani)
 * [Kristina Schneider](https://github.com/kriesse)
 * [Gilli Sigurdsson](https://github.com/gillisig)
+* You? Add yourself if you would like to join.
 
