@@ -8,7 +8,7 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 ## Date & Location
 
 - **Date:** Sun, 29 March 2015
-- **Time:** 15:00–16:30
+- **Time:** 15:00–16:30 CET (UTC +1:00)
 - **Where:** Participate via [Video Chat](https://appear.in/osd-meetup-berlin)
 
 
