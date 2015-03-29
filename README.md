@@ -5,10 +5,11 @@ A collection of upcoming events and past events pertaining to open source design
 
 ## Upcoming Events
 
-- [Planning Meetup, Mar 29, 2015](2015-03-29-planning-meetup.md)
+- [Planning Meetup, Apr 19, 2015](2015-04-19-planning-meetup.md)
 
 ### Past Events
 
+- [Planning Meetup, Mar 29, 2015](2015-03-29-planning-meetup.md)
 - [Berlin Open Source Design meetup, Mar 15, 2015](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md)
 
 
