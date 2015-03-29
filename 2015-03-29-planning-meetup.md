@@ -1,6 +1,6 @@
 # Planning Meetup, Mar 29, 2015
 
-In our [last meetup](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md) we outlined a bunch of good 
+In our [last meetup](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md) we outlined a bunch of good plans.
 
 Let’s meet and work on driving the Open Soure Design movement forward! Everyone who wants to contribute is welcome.
 
@@ -18,6 +18,7 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 * work on a proper opensourcedesign.net website
 * creating a job board which brings together projects with design needs and designers willing to help
 * figure out how to make the IRC channel more accessible to e.g. designers 
+* first draft for community code of conduct 
 * … add your plans!
 
 
