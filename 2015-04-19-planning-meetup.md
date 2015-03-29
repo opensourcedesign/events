@@ -1,6 +1,4 @@
-# Planning Meetup, Mar 29, 2015
-
-In our [last meetup](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md) we outlined a bunch of good plans.
+# Planning Meetup, Apr 19, 2015
 
 Let’s meet and work on driving the Open Soure Design movement forward! Everyone who wants to contribute is welcome.
 
