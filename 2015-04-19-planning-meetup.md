@@ -12,7 +12,7 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 
 ## Specific topics
 
-* ??
+* OSD Workshop at WWWTF
 * ??
 * … add topics you want to discuss!
 
