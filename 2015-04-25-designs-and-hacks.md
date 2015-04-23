@@ -29,4 +29,5 @@ Lots of things that we've talking about for the last couple months. Time to push
 * [Jan-Christoph Borchardt](https://github.com/jancborchardt)
 * [Romain Gauthier](https://github.com/tOkeshu)
 * [Gilli Sigurdsson](https://github.com/gillisig)
+* [Simon Vansintjan](https://github.com/simonv3)
 * … add yourself
