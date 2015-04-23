@@ -6,7 +6,7 @@ Lots of things that we've talking about for the last couple months. Time to push
 ## Date & Location
 
 - **Date:** Sun, 25 April 2015
-- **Time:** 15:00–16:30 CET (UTC +1:00)
+- **Time:** 14:00 – 18:00 CET (UTC +1:00)
 - **Where:** @bnvk Haus
 	- Gneisenaustraße 52
 	- Kreuzberg, Berlin
