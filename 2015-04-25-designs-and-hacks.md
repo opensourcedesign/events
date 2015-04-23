@@ -5,13 +5,13 @@ Lots of things that we've talking about for the last couple months. Time to push
 
 ## Date & Location
 
-- **Date:** Sun, 25 April 2015
+- **Date:** Sat, 25 April 2015
 - **Time:** 14:00 – 18:00 CET (UTC +1:00)
 - **Where:** @bnvk Haus
 	- Gneisenaustraße 52
 	- Kreuzberg, Berlin
 	- Near U7-Südstern stop
-- **Where (remote):** Participate via [video chat](https://appear.in/osd-designs-and-hacks)
+- **Where (remote):** Participate via [video chat](https://appear.in/opensourcedesign)
 
 
 ## Specific Topics
