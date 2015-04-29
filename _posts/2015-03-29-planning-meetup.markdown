@@ -1,9 +1,15 @@
-# Planning Meetup, Mar 29, 2015
-
+---
+layout: post
+title:  "Planning Meetup, Mar 29, 2015"
+date:   2015-03-29 19:37:47
+categories: planing meeting
+eventDate: Sun, 29 March 2015
+location: online
+time: 15:00–16:30 CET (UTC +1:00)
+---
 In our [last meetup](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md) we outlined a bunch of good plans.
 
 Let’s meet and work on driving the Open Soure Design movement forward! Everyone who wants to contribute is welcome.
-
 
 ## Date & Location
 
@@ -11,16 +17,14 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 - **Time:** 15:00–16:30 CET (UTC +1:00)
 - **Where:** Participate via [Video Chat](https://appear.in/osd-meetup-berlin)
 
-
 ## Specific topics
 
 * design slide decks that we can present at conferences and to interested people
 * work on a proper opensourcedesign.net website
 * creating a job board which brings together projects with design needs and designers willing to help
-* figure out how to make the IRC channel more accessible to e.g. designers 
-* first draft for community code of conduct 
+* figure out how to make the IRC channel more accessible to e.g. designers
+* first draft for community code of conduct
 * … add your plans!
-
 
 ## Participants
 
@@ -30,4 +34,3 @@ Let’s meet and work on driving the Open Soure Design movement forward! Everyon
 * [Kristina Schneider](https://github.com/kriesse)
 * [Gilli Sigurdsson](https://github.com/gillisig)
 * You? Add yourself if you would like to join.
-

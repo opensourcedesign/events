@@ -1,0 +1,14 @@
+# Site settings
+title: Open Source Design events
+email:
+description: > # this means to ignore newlines until "baseurl:"
+  We are a community of designers and developers aiming to push more open design processes and improve the design of open source apps
+baseurl: "/events" # the subpath of your site, e.g. /blog/
+
+url: "http://opensourcedesign.net" # the base hostname & protocol for your site
+
+twitter_username: opensrcdesign
+github_username:  opensourcedesign
+
+# Build settings
+markdown: kramdown

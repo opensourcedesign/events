@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <h1 class="page-heading">Events</h1>
+
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            {{ post.excerpt }}
+            <ul class="location">
+                {% if post.eventDate %}
+                <li>
+                    <strong>Date:</strong> {{ post.eventDate }}
+                </li>
+                {% endif %}
+                {% if post.time %}
+                <li>
+                    <strong>Time:</strong> {{ post.time }}
+                </li>
+                {% endif %}
+                {% if post.location %}
+                <li>
+                    <strong>Location:</strong> {{ post.location }}
+                </li>
+                {% endif %}
+            </ul>
+        </li>
+        {% endfor %}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
