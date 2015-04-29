@@ -1,11 +1,9 @@
 # Site settings
-title: Open Source Design Events
-email: freedom@opensourcedesign.net
+title: Open Source Design events
+email:
 description: > # this means to ignore newlines until "baseurl:"
-  Open Source Design brings great design to free and open source software
-  by creating tools, projects, and processes that are sustainable
-  and imptactful.
-baseurl: "" # the subpath of your site, e.g. /blog/
+  We are a community of designers and developers aiming to push more open design processes and improve the design of open source apps
+baseurl: "/events" # the subpath of your site, e.g. /blog/
 
 url: "http://opensourcedesign.net" # the base hostname & protocol for your site
 
