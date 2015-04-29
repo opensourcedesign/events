@@ -5,11 +5,17 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <article class="post-content">
     {{ content }}
   </article>
+
+  <footer class="post-footer">
+    <p class="post-meta">Event submitted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+    <p>To add an event <a href="https://github.com/opensourcedesign/events" target="_blank">fork and send a pull request</a></p>
+
+  </footer>
 
 </div>
