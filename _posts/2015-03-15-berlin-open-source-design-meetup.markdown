@@ -1,8 +1,13 @@
-# Berlin Open Source Design meetup
-
+---
+layout: post
+title:  "Berlin Open Source Design meetup"
+date:   2015-03-15 19:37:47
+categories: berlin meeting
+eventDate: Sun, 15 March 2015
+location: bnvk Haus/online
+time: 13:00–18:00 CET (UTC +1:00)
+---
 Let’s meet and work on driving the Open Soure Design movement forward! Everyone who wants to contribute is welcome.
-
-
 
 ## Results & todos!
 
@@ -15,7 +20,6 @@ We discussed via conference call and [etherpad](http://piratepad.net/fBoG0xwOiQ)
 * [ ] Gilli: create guidelines on how designers and developers can communicate better
 * [ ] Implement a Code of Conduct, e.g. like http://hood.ie/code-of-conduct/ (talk to Jan Lehnardt about forking this, also see: https://adainitiative.org/2014/02/howto-design-a-code-of-conduct-for-your-community/)
 If you want to join, just pick a task from the pad or do something you are interested in to drive the initiative forward! :)
-
 
 **What we want to achieve with Open Source Design**
 (_not_ a damn manifesto! :D)
@@ -53,10 +57,6 @@ If you want to join, just pick a task from the pad or do something you are inter
 * work on improving the design of open source projects
   * UX reviews, consulting
 
-
-
-
-
 ## Date & location
 
 Date: Sun, 15 March 2015
@@ -73,15 +73,13 @@ Near U7-Südstern stop
 
 [View on Open Street Maps](http://www.openstreetmap.org/?mlat=52.4893&mlon=13.4040#map=15/52.4893/13.4040)
 
-
 ## Specific topics
 
 * design slide decks that we can present at conferences and to interested people
 * work on a proper opensourcedesign.net website
 * creating a job board which brings together projects with design needs and designers willing to help
-* figure out how to make the IRC channel more accessible to e.g. designers 
+* figure out how to make the IRC channel more accessible to e.g. designers
 * … add your plans!
-
 
 ## Participants
 
@@ -91,4 +89,6 @@ Near U7-Südstern stop
 * [Kristina Schneider](https://github.com/kriesse)
 * [Gilli Sigurdsson](https://github.com/gillisig)
 * … add yourself!
+
+
 

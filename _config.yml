@@ -1,0 +1,16 @@
+# Site settings
+title: Open Source Design Events
+email: freedom@opensourcedesign.net
+description: > # this means to ignore newlines until "baseurl:"
+  Open Source Design brings great design to free and open source software
+  by creating tools, projects, and processes that are sustainable
+  and imptactful.
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+url: "http://opensourcedesign.net" # the base hostname & protocol for your site
+
+twitter_username: opensrcdesign
+github_username:  opensourcedesign
+
+# Build settings
+markdown: kramdown
