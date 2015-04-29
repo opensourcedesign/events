@@ -15,6 +15,6 @@ Held yearly since 2006 the Libre Graphics Meeting aims to attract developers, ar
 
 ## Date & Location
 
-- **Date:** Sat, 25 April 2015
+- **Date:** Tue, 29 April 2015 – Sat, 2 May 2015
 - **Time:** full day
 - **Where:** University of Toronto, Ontario
