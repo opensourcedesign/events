@@ -6,6 +6,7 @@ categories: planing meeting
 eventDate: Sun, 29 March 2015
 location: online
 time: 15:00–16:30 CET (UTC +1:00)
+status: past
 ---
 In our [last meetup](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md) we outlined a bunch of good plans.
 
