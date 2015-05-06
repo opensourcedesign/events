@@ -6,6 +6,7 @@ categories: design hack meeting
 eventDate: Sat, 25 April 2015
 location: bnvk Haus/online
 time: 14:00 – 18:00 CET (UTC +1:00)
+status: past
 ---
 Lots of things that we've talking about for the last couple months. Time to push some pixels and code and breath life into these objective. Let’s meet and work on driving the Open Soure Design movement forward. Everyone who wants to contribute is welcome :)
 
