@@ -6,7 +6,7 @@ Check out http://opensourcedesign.net/events/ for past, present, and future even
 
 ### Host Your Own Event
 
-Want to host an event either in virutal space or meat space about Open Source Design? Fork the repo, submit your pull request and we'll post it. Some ideas for meetups are:
+Want to host an event either in virtual space or meat space about Open Source Design? Fork the repo, submit your pull request and we'll post it. Some ideas for meetups are:
 
 - Planning meetings
 - Icon design workshop
