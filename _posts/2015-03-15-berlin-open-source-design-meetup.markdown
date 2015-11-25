@@ -6,6 +6,7 @@ categories: berlin meeting
 eventDate: Sun, 15 March 2015
 location: bnvk Haus/online
 time: 13:00–18:00 CET (UTC +1:00)
+status: past
 ---
 Let’s meet and work on driving the Open Soure Design movement forward! Everyone who wants to contribute is welcome.
 

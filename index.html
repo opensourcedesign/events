@@ -2,40 +2,69 @@
 layout: default
 ---
 
-<div class="home">
 
-    <h1 class="page-heading">Events</h1>
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-md-offset-2">
 
+    <h1>Events</h1>
+
+    {% assign posts = site.posts | where: "status", "upcoming" %}
+    {% if posts != empty %}
+        <h3>Upcoming events</h3>
+        <ul class="post-list">
+            {% for post in posts %}
+            <li>
+                <h2>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+
+                {{ post.excerpt }}
+                <ul class="location">
+                    {% if post.eventDate %}
+                    <li>
+                        <strong>Date:</strong> {{ post.eventDate }}
+                    </li>
+                    {% endif %}
+                    {% if post.time %}
+                    <li>
+                        <strong>Time:</strong> {{ post.time }}
+                    </li>
+                    {% endif %}
+                    {% if post.location %}
+                    <li>
+                        <strong>Location:</strong> {{ post.location }}
+                    </li>
+                    {% endif %}
+                </ul>
+            </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <h2>There are no upcoming events</h2>
+        <p>To add an event <a href="https://github.com/opensourcedesign/events" target="_blank">fork and send a pull request</a></p>
+    {% endif %}
+
+    {% assign pastEvents = site.posts | where: "status", "past" %}
+    {% if pastEvents %}
+    <h3>Pasts events</h3>
     <ul class="post-list">
-        {% for post in site.posts %}
+        {% for post in pastEvents %}
         <li>
-
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
             <h2>
                 <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
             </h2>
             {{ post.excerpt }}
-            <ul class="location">
-                {% if post.eventDate %}
-                <li>
-                    <strong>Date:</strong> {{ post.eventDate }}
-                </li>
-                {% endif %}
-                {% if post.time %}
-                <li>
-                    <strong>Time:</strong> {{ post.time }}
-                </li>
-                {% endif %}
-                {% if post.location %}
-                <li>
-                    <strong>Location:</strong> {{ post.location }}
-                </li>
-                {% endif %}
-            </ul>
         </li>
         {% endfor %}
     </ul>
+    {% endif %}
+
+
+
+    <p>To add an event <a href="https://github.com/opensourcedesign/events" target="_blank">fork and send a pull request</a></p>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+</div>
+</div>
 </div>
