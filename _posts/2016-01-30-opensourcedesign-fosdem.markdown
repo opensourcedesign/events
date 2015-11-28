@@ -19,7 +19,7 @@ The full call for participation is below.
 
 This is the Call for Participation for the FOSDEM 2016 Open Source Design devroom. We invite you to send in your submissions about design work on free, libre and open source projects.
 
-FOSDEM (https://fosdem.org) is the Free and Open source Software Developers’ European Meeting, a free and non-commercial two-day weekend event that offers open source contributors a place to meet, share ideas and collaborate.
+[FOSDEM](https://fosdem.org) is the Free and Open source Software Developers’ European Meeting, a free and non-commercial two-day weekend event that offers open source contributors a place to meet, share ideas and collaborate.
 
 After a successful run in 2015, there will be again a design devroom at FOSDEM 2016: a full day of talks about design work on free, libre and open source projects. The Open Source Design devroom will take place on **Saturday, January 30th**.
 
@@ -45,13 +45,15 @@ The talks in the Open Source Design devroom will be audio and video recorded, an
 
 #### Submission deadline:
 
-1st December 2015
+We have extended our submission deadline until **8th December 2015**
+
+~~1st December 2015~~
 
 #### How to submit
 
-All submissions are made in the Pentabarf event planning tool at
+All submissions are made in the [Pentabarf event planning tool ](https://penta.fosdem.org/submission/FOSDEM16/) at
 
-https://penta.fosdem.org/submission/FOSDEM16/
+[https://penta.fosdem.org/submission/FOSDEM16/](https://penta.fosdem.org/submission/FOSDEM16/)
 
 When submitting your talk in Pentabarf, make sure to select the ‘Open source design devroom’ as the ‘Track’.
 
@@ -59,4 +61,4 @@ If you already have a Pentabarf account from a previous year, please reuse it: c
 
 ### Who coordinates this Open Source Design devroom thing
 
-The Open Source Design Devroom is coordinated by the Open Source Design crowd: http://opensourcedesign.net/
+The Open Source Design Devroom is coordinated by [the Open Source Design Crowd ](http://opensourcedesign.net/) at [http://opensourcedesign.net/ ](http://opensourcedesign.net/)
