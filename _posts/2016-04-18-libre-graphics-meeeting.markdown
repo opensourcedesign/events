@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Libre Graphics Meeting 2016
-date:   2015-12-07
+date:   2016-12-07
 categories: design hack meeting
-eventDate: Fri, 15 April 2015 – Mon, 18 April 2015
+eventDate: Fri, 15 April 2016 – Mon, 18 April 2016
 location: London, England
 time: full days
 status: future
