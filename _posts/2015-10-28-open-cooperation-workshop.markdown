@@ -6,7 +6,7 @@ categories: design workshop conference
 eventDate: Wed, 28 Oct 2015
 location: Mission Bay Conference Center at UCSF, San Francisco
 time: 9:00 am – 5:00 pm
-status: upcoming
+status: past
 ---
 
 Garth Braithwaite, Una Kravets and Christopher Moody are running a full day workshop as part of [Future of Web Design San Francisco](https://futureofwebdesign.com/san-francisco-2015):
