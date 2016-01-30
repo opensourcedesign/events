@@ -3,7 +3,7 @@ layout: post
 title:  "Libre Graphics Meeting"
 date:   2016-04-15
 categories: libregraphics meeting
-eventDate: Tue, 15 April 2015 – Sat, 18 April 2016
+eventDate: Tue, 15 April 2016 – Sat, 18 April 2016
 location: London, UK
 time: full days
 status: future
@@ -16,6 +16,6 @@ Held yearly since 2006 the Libre Graphics Meeting aims to attract developers, ar
 
 ## Date & Location
 
-- **Date:** Fri, 15 April 2015 – Mon, 18 April 2016
+- **Date:** Fri, 15 April 2016 – Mon, 18 April 2016
 - **Time:** full day
 - **Where:** Harrow Campus, University of Westminster, London, UK
