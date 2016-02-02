@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Fri, 15 April 2016 – Mon, 18 April 2016
 location: London, England
 time: full days
-status: future
+status: upcoming
 ---
 
 The [Libre Graphics Meeting (LGM)](http://libregraphicsmeeting.org/2016/) is an annual meeting on free and open source software for graphics.
