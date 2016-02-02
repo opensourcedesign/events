@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Sat, 30 Jan 2016
 location: Université Libre Brussels (Solbosch campus), Belgium
 time: 10:30 am – 7:00 pm
-status: upcoming
+status: past
 ---
 
 [FOSDEM](https://fosdem.org) is one of the biggest open source conferences. For the second time there will be a dedicated Open Source Design track.
