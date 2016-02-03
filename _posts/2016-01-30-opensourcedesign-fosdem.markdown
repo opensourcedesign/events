@@ -7,6 +7,8 @@ eventDate: Sat, 30 Jan 2016
 location: Université Libre Brussels (Solbosch campus), Belgium
 time: 10:30 am – 7:00 pm
 status: past
+redirect_from: /design/hack/meeting/2016/01/30/opensourcedesign-fosdem.html
+permalink: /2016/01/30/opensourcedesign-fosdem-2016
 ---
 
 [FOSDEM](https://fosdem.org) is one of the biggest open source conferences. For the second time there will be a dedicated Open Source Design track.
