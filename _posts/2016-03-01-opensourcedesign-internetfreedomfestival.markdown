@@ -7,6 +7,8 @@ eventDate: Tue, 1 March 2016
 location: Calle de Juan Verdeguer 16, 46024 – Valencia, Spain
 time: 
 status: upcoming
+redirect_from: design/internet-freedom/activism/2016/03/01/opensourcedesign-internetfreedomfestival.html
+permalink: /2016/03/01/open-source-design-internet-freedom-festival
 ---
 
 [The Internet Freedom Festival](https://internetfreedomfestival.org/) creates a common space where diverse communities working against and affected by censorship and surveillance can come together to teach, plan and act. 
