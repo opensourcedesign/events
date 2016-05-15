@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Fri, 18 Mar 2016 – Sun, 20 Mar 2016
 location: Singapore Science Centre, Singapore
 time: full days
-status: upcoming
+status: past
 redirect_from: /design/hack/meeting/2016/03/18/fossasia-2016.html
 permalink: /2016/03/18/fossasia-2016
 ---
