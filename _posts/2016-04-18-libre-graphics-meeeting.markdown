@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Fri, 15 April 2016 – Mon, 18 April 2016
 location: London, England
 time: full days
-status: upcoming
+status: past
 redirect_from: /design/hack/meeting/2016/12/07/libre-graphics-meeeting.html
 permalink: /2016/12/07/libre-graphics-meeeting
 ---
