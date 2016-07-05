@@ -36,3 +36,4 @@ UX in a High-Risk World is held with support from Yahoo!, Vodafone Americas Foun
 - **Time:** 6:30 PM to 9:30 PM (PDT)
 - **Where:** San Francisco, California, United States
 - **RSVP:** https://www.eventbrite.com/e/ux-in-a-high-risk-world-tickets-25739389206
+- **Code of Conduct:** https://usable.tools/codeofconduct
