@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Sat, 14 May 2016 – Sun, 15 May 2016
 location: Tirana, Albania
 time: full days
-status: upcoming
+status: past
 redirect_from: /design/hack/meeting/2016/05/14/oscal.html
 permalink: /2016/05/14/oscal
 ---

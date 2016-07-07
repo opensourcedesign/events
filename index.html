@@ -13,7 +13,7 @@ layout: default
     {% if posts != empty %}
         <h3>Upcoming events</h3>
         <ul class="post-list">
-            {% for post in posts %}
+            {% for post in posts reversed %}
             <li>
                 <h2>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
