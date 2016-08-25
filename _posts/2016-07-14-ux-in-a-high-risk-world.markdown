@@ -6,7 +6,7 @@ categories: open source conference
 eventDate: Thu, 14 July 2016
 location: San Francisco, California, United States
 time:  6:30 PM to 9:30 PM (PDT)
-status: upcoming
+status: past
 permalink: /2016/07/14/uxhighrisk
 ---
 
