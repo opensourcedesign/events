@@ -6,7 +6,7 @@ categories: open-source, design, emotions
 eventDate: Fri, 22 Jul 2016 – Sat, 23 Jul 2016
 location: Broadway Performance Hall, Seattle, WA
 time: full days
-status: upcoming
+status: past
 ---
 
 [OS Feels](http://osfeels.com/) is a two-day conference at the intersection of software and the humanities.
