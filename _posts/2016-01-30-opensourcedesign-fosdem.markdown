@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Source Design track at FOSDEM"
+title:  "Open Source Design track at FOSDEM 2016"
 date:   2016-01-30
 categories: design hack meeting
 eventDate: Sat, 30 Jan 2016
