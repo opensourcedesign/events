@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Libre Graphics Meeting"
+title:  "Libre Graphics Meeting 2015"
 date:   2015-04-29
 categories: design hack meeting
 eventDate: Tue, 29 April 2015 – Sat, 2 May 2015
 location: Toronto, Canada
 time: full days
 status: past
+redirect_from: /events/design/hack/meeting/2015/04/29/libregraphicsmeeting.html
+permalink: /2015/04/29/libregraphicsmeeting
 ---
 
 The [Libre Graphics Meeting (LGM)](http://libregraphicsmeeting.org/2015/) is an annual meeting on free and open source software for graphics.

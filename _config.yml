@@ -12,3 +12,10 @@ github_username:  opensourcedesign
 
 # Build settings
 markdown: kramdown
+
+# Show future events
+future: True
+
+# Enable the redirect_from plugin
+gems:
+  - jekyll-redirect-from
