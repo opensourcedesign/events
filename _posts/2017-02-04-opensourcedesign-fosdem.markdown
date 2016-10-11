@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Open Source Design track at FOSDEM 2017"
-date:   2017-02-04 || 2017-02-05
+date:   2017-02-05
 categories: design hack meeting
-eventDate: Sat, 4 Feb 2017 || Sun, 5 Feb 2017
+eventDate: Sun, 5 Feb 2017
 location: Université Libre Brussels (Solbosch campus), Belgium
 time: pending
 status: upcoming
@@ -23,7 +23,7 @@ This is the Call for Participation for the FOSDEM 2017 Open Source Design devroo
 
 [FOSDEM](https://fosdem.org) is the Free and Open source Software Developers’ European Meeting, a free and non-commercial two-day weekend event that offers open source contributors a place to meet, share ideas and collaborate.
 
-After successful runs in 2015 and 2016, there will be again a design devroom at FOSDEM 2017: a full day of talks about design work on free, libre and open source projects. The Open Source Design devroom will take place on **Saturday, February 4th** or **Sunday, February 5th** (to be announced).
+After successful runs in 2015 and 2016, there will be again a design devroom at FOSDEM 2017: a full day of talks about design work on free, libre and open source projects. The Open Source Design devroom will take place on **Sunday, February 5th**.
 
 We mean ‘design’ in the broadest sense: user research, interface and interaction design, information architecture, visual design, typography, illustration, iconography, accessibility ... – all in the context of open source projects, which we believe introduces unique challenges. Designers and developers working with designers (or on a design-minded project) are welcome to submit proposals.
 
