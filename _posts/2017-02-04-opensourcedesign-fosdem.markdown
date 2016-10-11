@@ -47,7 +47,7 @@ The talks in the Open Source Design devroom will be audio and video recorded, an
 
 #### Submission deadline:
 
-~~1st December 2016~~
+1st December 2016
 
 #### How to submit
 
