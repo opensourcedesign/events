@@ -13,7 +13,7 @@ permalink: /2017/02/05/opensourcedesign-fosdem-2017
 
 [FOSDEM](https://fosdem.org) is one of the biggest open source conferences. For the third time there will be a dedicated Open Source Design track.
 
-The call for participation is now open. Dead line for submitting your proposals is **December 1th 2016**.
+The call for participation is now open. The deadline for submitting your proposals is **December 1th 2016**.
 
 The full call for participation is below:
 
