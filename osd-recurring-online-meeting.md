@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "OSD Monthly Online Get Together"
+title:  "Open Source Design Monthly Online Meeting"
 date:   2016-12-06
 categories: online meet-up
 eventDate: Every First Tuesday
-location: Online at http://talky.io/opensourcedesign
+location: Online at https://talky.io/opensourcedesign
 time:  7:00 PM to ... (Berlin Time)
 status: upcoming
-permalink: /osd-monthly-get-together
+permalink: /open-source-design-monthly-meeting
 ---
 
 Join us for our monthly get together where we talk about all things Open Source Design. Everyone is welcome. 
@@ -22,4 +22,4 @@ Our next event is:
 
 - **Date:** Tue, 06 Dec 2016
 - **Time:** 7:00 PM to ... (Berlin Time)
-- **Where:** Online at http://talky.io/opensourcedesign
+- **Where:** Online at https://talky.io/opensourcedesign
