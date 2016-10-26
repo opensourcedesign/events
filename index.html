@@ -9,6 +9,12 @@ layout: default
 
     <h1>Events</h1>
 
+    <h3>Recurring Meeting</h3>
+    <p class="center">
+        Join us for a recurring meeting every first Tuesday of the month. You
+        can find more information on <a href="/osd-recurring-online-meeting">our Event listing</a>.
+    </p>
+
     {% assign posts = site.posts | where: "status", "upcoming" %}
     {% if posts != empty %}
         <h3>Upcoming events</h3>
