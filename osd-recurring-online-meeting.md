@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open Source Design Monthly Online Meeting"
-date:   2016-12-06
+date:   2017-01-10
 categories: online meet-up
 eventDate: Every First Tuesday
 location: Online at [https://talky.io/opensourcedesign](https://talky.io/opensourcedesign)
@@ -20,6 +20,6 @@ To see what we talked about in previous meetings, look at:
 
 Our next event is:
 
-- **Date:** Tue, 06 Dec 2016
+- **Date:** Tue, 10 Jan 2017
 - **Time:** 7:00 PM to ... (Berlin Time)
 - **Where:** Online at [https://talky.io/opensourcedesign](https://talky.io/opensourcedesign)
