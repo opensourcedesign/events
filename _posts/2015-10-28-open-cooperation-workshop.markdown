@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Future of Web Design Workshop – Open Cooperation: Working Together"
+title:  "Future of Web Design Workshop – Open Cooperation: Working Together 2015"
 date:   2015-10-28
 categories: design workshop conference
 eventDate: Wed, 28 Oct 2015
