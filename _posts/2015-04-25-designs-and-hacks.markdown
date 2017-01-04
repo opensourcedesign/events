@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Designs and Hacks"
+title:  "Designs and Hacks, Apr 25, 2015"
 date:   2015-04-25 19:37:47
 categories: design hack meeting
 eventDate: Sat, 25 April 2015
