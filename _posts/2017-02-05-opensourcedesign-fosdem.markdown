@@ -11,8 +11,9 @@ redirect_from: /design/hack/meeting/2017/02/05/opensourcedesign-fosdem.html
 permalink: /2017/02/05/opensourcedesign-fosdem-2017
 ---
 
-[FOSDEM](https://fosdem.org) is one of the biggest open source conferences. For the third time there will be a dedicated Open Source Design track.
+[FOSDEM](https://fosdem.org) is one of the biggest open source conferences. For the third time there will be a dedicated [Open Source Design track](https://fosdem.org/2017/schedule/track/open_source_design/)!
 
+<!--
 The call for participation is now open.
 
 The submission deadline has been extended until **December 5th 2016**. The original deadline was December 1th 2016.
@@ -61,6 +62,8 @@ When submitting your talk in Pentabarf, make sure to select the ‘Open source d
 
 If you already have a Pentabarf account from a previous year, please reuse it: create an account if, and only if, you don’t have one from a previous year. If you have any issues with Pentabarf, do not despair: contact valicac at gmail dot com
 
-### Who coordinates this Open Source Design devroom thing
+-->
 
-The Open Source Design Devroom is coordinated by [the Open Source Design Crowd ](http://opensourcedesign.net/) at [http://opensourcedesign.net/ ](http://opensourcedesign.net/)
+### Who coordinates the Open Source Design track
+
+The Open Source Design track is coordinated by [the Open Source Design Crowd](http://opensourcedesign.net/) at [opensourcedesign.net](http://opensourcedesign.net/)
