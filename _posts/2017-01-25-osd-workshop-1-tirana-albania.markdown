@@ -6,7 +6,7 @@ categories: design workshop linux
 eventDate: Sat, 25 January 2017
 location: Tirana, Albania
 time: 5:00-8:00 PM
-status: upcoming
+status: past
 redirect_from: /design/workshop/linux/2017/01/25/osd1tirana.html
 permalink: /2017/01/17/osd1tirana
 ---
