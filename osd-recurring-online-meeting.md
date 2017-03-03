@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Open Source Design Monthly Online Meeting"
-date:   2017-02-14
+date:   2017-03-07
 categories: online meet-up
 eventDate: Every First Tuesday
 location: Online at [https://meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign)
@@ -20,6 +20,6 @@ To see what we talked about in previous meetings, look at:
 
 Our next event is:
 
-- **Date:** Tue, 14 Feb 2017
+- **Date:** Tue, 7 Mar 2017
 - **Time:** 7:00 PM to ... (Berlin Time)
 - **Where:** Online at [https://meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign)
