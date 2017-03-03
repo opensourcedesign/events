@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Source Design Workshop #1 Tirana "
+title:  "Open Source Design Workshop #1 Tirana 2017"
 date:   2017-01-25
 categories: design workshop linux
 eventDate: Sat, 25 January 2017
