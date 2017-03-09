@@ -4,7 +4,7 @@ title:  "Open Source Design Meetup Berlin"
 date:   2017-03-15
 categories: design meetup community
 eventDate: Fr, 15 March 2017
-location: Calle de Juan Verdeguer 16, 46024 – Valencia, Spain
+location: Mozilla Berlin Community Space - Haus 12, Voltastr. 5, 13355 Berlin
 time: 19:00 - 22:00 (UTC +1:00)
 status: upcoming
 ---
