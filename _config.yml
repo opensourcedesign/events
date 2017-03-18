@@ -11,7 +11,7 @@ github_username:  opensourcedesign
 
 # Build settings
 markdown: kramdown
-permalink: /:year-:month-:day/:title
+permalink: /:year/:month/:title
 
 # Show future events
 future: True
