@@ -3,7 +3,7 @@ title: Events - Open Source Design
 email:
 description: > # this means to ignore newlines until "baseurl:"
   We are a community of designers and developers aiming to push more open design processes and improve the design of open source apps
-baseurl: "/events/"
+baseurl: "/events"
 url: "http://opensourcedesign.net"
 
 twitter_username: opensrcdesign
@@ -11,7 +11,7 @@ github_username:  opensourcedesign
 
 # Build settings
 markdown: kramdown
-permalink: :year/:month/:title
+permalink: /:year/:month/:title
 
 # Show future events
 future: True
