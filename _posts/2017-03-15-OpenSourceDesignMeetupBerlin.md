@@ -66,8 +66,8 @@ that there are many mechanisms to 'add' features... but none to 'remove' them!
 The idea that 'the bigger the buffet, the better it must be' prevails and leads
 to bloated, confusing, awkward jack-of-all-trades software. 
 
-Sam shared an example of successful community integration/transition from
-Kdenlive, the video editor he relies upon for work (https://kdenlive.org/). For
+Sam shared an example of successful community integration / transition from
+[Kdenlive](https://kdenlive.org), the video editor he relies upon for work. For
 many years almost all of the code has come from only one developer,
 Jean-Baptiste Mardelle - and as you might expect, he burned out and almost left
 the project for good back in 2013. But in the last two years there has beeen a
