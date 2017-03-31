@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Open Source Design Meetup Berlin"
+title:  "Open Source Design Meetup Berlin, Mar 15, 2017"
 date:   2017-03-15
 categories: design meetup community
 eventDate: Fr, 15 March 2017
