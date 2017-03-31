@@ -6,7 +6,7 @@ categories: design internet-freedom activism
 eventDate: Tue, 6 March 2017 - Fri, 10 March 2017
 location: Calle de Juan Verdeguer 16, 46024 – Valencia, Spain
 time: All day
-status: upcoming
+status: past
 ---
 
 [The Internet Freedom Festival](https://internetfreedomfestival.org/) creates a common space where diverse communities working against and affected by censorship and surveillance can come together to teach, plan and act.
