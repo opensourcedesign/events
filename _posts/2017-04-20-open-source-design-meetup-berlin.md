@@ -30,7 +30,7 @@ Looking forward to seeing you soon!
 
 ## Date & Location
 
-- **Date:** Fr. 20th April 2017
+- **Date:** Thu. 20th April 2017
 - **Time:** 19:00 - 22:00 (UCT +1)
 - **Where:** Mozilla Berlin Community Space - Haus 12, Voltastr. 5, 13355 Berlin, Berlin, Berlin
 
