@@ -6,7 +6,7 @@ categories: design meetup community
 eventDate: Thu, 20 April 2017
 location: Mozilla Berlin Community Space - Haus 12, Voltastr. 5, 13355 Berlin
 time: 19:00 - 22:00 (UTC +1:00)
-status: 
+status: past
 ---
 
 We welcome everyone to join us in connecting with people to promote and improve open source design. We value learning and sharing freely through both our processes and results. Come and have a good time, exchange ideas, and solve problems with us. Chat about remote usability tests on a budget, or how one could involve an online community in the design process. We might also discuss the trade offs between various open source tools, or brainstorm some ideas to promote libre design projects to university students. The possibilities are endless!
