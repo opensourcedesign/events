@@ -14,7 +14,12 @@ Join us for our monthly get together where we talk about all things Open Source 
 
 To see what we talked about in previous meetings, look at:
 
-[https://github.com/opensourcedesign/events/issues/49](https://github.com/opensourcedesign/events/issues/49)
+[github.com/opensourcedesign/events/issues/49](https://github.com/opensourcedesign/events/issues/49)
+
+You can also subscribe to the calendar with this meeting in it as well as other related Open Source Design events:
+
+[cloud.nextcloud.com/apps/calendar/public/MIFAFLFJADIVX63I](https://cloud.nextcloud.com/apps/calendar/public/MIFAFLFJADIVX63I)
+
 
 ## Date & Location
 
