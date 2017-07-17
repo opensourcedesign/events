@@ -25,6 +25,6 @@ You can also subscribe to the calendar with this meeting in it as well as other 
 
 Our next event is:
 
-- **Date:** Tue, 2 May 2017
+- **Date:** Tue, 1 August 2017
 - **Time:** 7:00 PM to ... (Berlin Time)
 - **Where:** Online at [https://meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign)
