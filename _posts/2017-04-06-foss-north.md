@@ -6,7 +6,7 @@ categories: talk
 eventDate: April 26th, 2017
 location: Folkets hus, Gothenburg
 time: pending
-status: upcoming
+status: past
 permalink: /2017/02/04/foss-north-2017
 ---
 
