@@ -11,8 +11,6 @@ redirect_from: /design/hack/meeting/2018/02/04/opensourcedesign-fosdem.html
 permalink: /2018/02/04/opensourcedesign-fosdem-2018
 ---
 
-## Call for Participation: Open Source Design Devroom at FOSDEM 2018
-
 [FOSDEM](https://fosdem.org) is the Free and Open source Software Developers’ European Meeting, a free and non-commercial two-day weekend event that offers open source contributors a place to meet, share ideas and collaborate.
 
 After successful runs in 2015, 2016 and 2017, there will be again a design devroom at FOSDEM 2018: a full day of talks about design work on free, libre and open source projects. The Open Source Design devroom will take place on **Sunday, February 4th**.
