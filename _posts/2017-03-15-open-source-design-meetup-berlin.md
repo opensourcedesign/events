@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Open Source Design Meetup Berlin, Mar 15, 2017"
 date:   2017-03-15
 categories: design meetup community

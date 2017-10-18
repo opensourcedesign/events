@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: "Open Source Design Event Madrid"
 date: 2017-06-01
 categories: design meetup community

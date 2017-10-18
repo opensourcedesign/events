@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Libre Graphics Meeting 2015"
 date:   2015-04-29
 categories: design hack meeting

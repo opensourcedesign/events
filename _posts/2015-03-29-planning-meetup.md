@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Planning Meetup, Mar 29, 2015"
 date:   2015-03-29 19:37:47
 categories: planing meeting

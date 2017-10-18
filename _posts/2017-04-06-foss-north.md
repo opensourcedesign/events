@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Foss North, Gothenberg"
 date:   2017-04-26
 categories: talk

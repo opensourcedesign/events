@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Call for Participation: Open Source Design Devroom at FOSDEM 2018"
 date:   2018-02-04
 categories: design hack meeting

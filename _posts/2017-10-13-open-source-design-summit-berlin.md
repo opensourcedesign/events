@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Open Source Design Summit 2017: Berlin, Oct 13-18"
 date:   2017-10-13
 categories: design meetup community

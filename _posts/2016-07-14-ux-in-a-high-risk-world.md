@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "UX in a High-Risk World 2016"
 date:   2016-07-14
 categories: open source conference

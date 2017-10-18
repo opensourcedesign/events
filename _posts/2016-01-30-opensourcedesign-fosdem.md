@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Open Source Design track at FOSDEM 2016"
 date:   2016-01-30
 categories: design hack meeting

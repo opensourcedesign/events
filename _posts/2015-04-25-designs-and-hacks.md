@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Designs and Hacks, Apr 25, 2015"
 date:   2015-04-25 19:37:47
 categories: design hack meeting

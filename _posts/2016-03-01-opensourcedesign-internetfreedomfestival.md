@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title: "Internet Freedom Festival 2016"
 date: 2016-03-01
 categories: design internet-freedom activism

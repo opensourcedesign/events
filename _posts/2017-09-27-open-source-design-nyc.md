@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Open Source Design NYC: Sep 27"
 date:   2017-09-27
 categories: design meetup community
