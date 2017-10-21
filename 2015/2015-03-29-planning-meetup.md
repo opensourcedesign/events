@@ -2,14 +2,18 @@
 layout: event
 title:  "Planning Meetup, Mar 29, 2015"
 date:   2015-03-29 19:37:47
-categories: planing meeting
+categories:
+  - planing
+  - meeting
 eventDate: Sun, 29 March 2015
 location: online
 time: 15:00–16:30 CET (UTC +1:00)
 status: past
-redirect_from: /planing/meeting/2015/03/29/planning-meetup.html
-permalink: /2015/03/29/planning-meetup
+redirect_from:
+  - /planing/meeting/2015/03/29/planning-meetup.html
+  - /2015/03/29/planning-meetup
 ---
+
 In our [last meetup](2015-03-15%20Berlin%20Open%20Source%20Design%20meetup.md) we outlined a bunch of good plans.
 
 Let’s meet and work on driving the Open Soure Design movement forward! Everyone who wants to contribute is welcome.

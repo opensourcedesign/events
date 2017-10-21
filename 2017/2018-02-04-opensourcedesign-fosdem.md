@@ -1,14 +1,17 @@
 ---
 layout: event
 title:  "Call for Participation: Open Source Design Devroom at FOSDEM 2018"
-date:   2018-02-04
-categories: design hack meeting
+date: 2018-02-04
+categories:
+  - meeting
+  - conferences
 eventDate: Sun, 4 Feb 2018
 location: K.4.201, Université Libre Brussels (Solbosch campus), Belgium
 time: pending
 status: upcoming
-redirect_from: /design/hack/meeting/2018/02/04/opensourcedesign-fosdem.html
-permalink: /2018/02/04/opensourcedesign-fosdem-2018
+redirect_from:
+  - /design/hack/meeting/2018/02/04/opensourcedesign-fosdem.html
+  - /2018/02/04/opensourcedesign-fosdem-2018
 ---
 
 [FOSDEM](https://fosdem.org) is the Free and Open source Software Developers’ European Meeting, a free and non-commercial two-day weekend event that offers open source contributors a place to meet, share ideas and collaborate.

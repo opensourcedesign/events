@@ -2,13 +2,17 @@
 layout: event
 title:  "Future of Web Design Workshop – Open Cooperation: Working Together 2015"
 date:   2015-10-28
-categories: design workshop conference
+categories:
+  - design
+  - workshop
+  - conference
 eventDate: Wed, 28 Oct 2015
 location: Mission Bay Conference Center at UCSF, San Francisco
 time: 9:00 am – 5:00 pm
 status: past
-redirect_from: /design/workshop/conference/2015/10/28/open-cooperation-workshop.html
-permalink: /2015/10/28/open-cooperation-workshop
+redirect_from:
+  - /design/workshop/conference/2015/10/28/open-cooperation-workshop.html
+  - /2015/10/28/open-cooperation-workshop
 ---
 
 Garth Braithwaite, Una Kravets and Christopher Moody are running a full day workshop as part of [Future of Web Design San Francisco](https://futureofwebdesign.com/san-francisco-2015):

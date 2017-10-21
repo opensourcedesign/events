@@ -2,12 +2,14 @@
 layout: event
 title:  "UX in a High-Risk World 2016"
 date:   2016-07-14
-categories: open source conference
+categories:
+  - open-source
+  - conferences
 eventDate: Thu, 14 July 2016
 location: San Francisco, California, United States
 time:  6:30 PM to 9:30 PM (PDT)
 status: past
-permalink: /2016/07/14/uxhighrisk
+redirect_from: /2016/07/14/uxhighrisk
 ---
 
 [UX in a High Risk World](https://www.eventbrite.com/e/ux-in-a-high-risk-world-tickets-25739389206) 

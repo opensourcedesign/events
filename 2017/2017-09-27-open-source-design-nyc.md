@@ -2,7 +2,9 @@
 layout: event
 title:  "Open Source Design NYC: Sep 27"
 date:   2017-09-27
-categories: design meetup community
+categories:
+  - meetup
+  - community
 eventDate: Wed, 27 Sep 2017
 location: New York
 time: 6:30pm - 8.30pm (EDT)

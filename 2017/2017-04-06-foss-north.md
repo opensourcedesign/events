@@ -2,7 +2,10 @@
 layout: event
 title:  "Foss North, Gothenberg"
 date:   2017-04-26
-categories: talk
+categories: 
+  - talk
+  - conferences
+  - open-source
 eventDate: April 26th, 2017
 location: Folkets hus, Gothenburg
 time: pending
