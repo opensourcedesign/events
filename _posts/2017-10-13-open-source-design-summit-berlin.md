@@ -6,7 +6,7 @@ categories: design meetup community
 eventDate: Fri, 13 Oct 2017 - Wed, 18 Oct 2017
 location: Berlin
 time: full days
-status: upcoming
+status: past
 ---
 
 We're organizing a summit for all designers and developers interested in cheerleading great design in open source. It will take place in Berlin.
