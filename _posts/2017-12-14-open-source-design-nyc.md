@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Open Source Design NYC: Nov 09"
-date:   2017-11-09
+title:  "Open Source Design NYC: Dec 14"
+date:   2017-12-14
 categories: design meetup community
 eventDate: Thurs, 14 Dec 2017
 location: New York
@@ -9,7 +9,7 @@ time: 6:00pm - 8.00pm (EDT)
 status: upcoming
 ---
 
-Calling Open Source Design enthusiasts living in NYC and around, please join us for our next meetup on looking at the intersection between accessibility, inclusive design, and open source. This will be given by [Atul Varma] (https://twitter.com/toolness), who is known for building bridges of understanding between humans and machines. He has written illuminating software that's been used as the centerpiece of TED Talks, in maker events around the world, and by individuals who are just trying to have a less frustrating time using their computer. But his favorite moments are very personal: understanding where another person is coming from, constructing a metaphor they can relate to, and using it to explain technology in a way that liberates, excites, and empowers.
+Calling Open Source Design enthusiasts living in NYC and around, please join us for our next meetup on looking at the intersection between accessibility, inclusive design, and open source. This will be given by [Atul Varma](https://twitter.com/toolness), who is known for building bridges of understanding between humans and machines. He has written illuminating software that's been used as the centerpiece of TED Talks, in maker events around the world, and by individuals who are just trying to have a less frustrating time using their computer. But his favorite moments are very personal: understanding where another person is coming from, constructing a metaphor they can relate to, and using it to explain technology in a way that liberates, excites, and empowers.
 
 We hope to see you there!!!
 
