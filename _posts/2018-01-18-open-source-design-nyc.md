@@ -19,7 +19,7 @@ At this meeting, long time libre font activist Dave Crossland will discuss the p
 
 Dave Crossland attended the first [Libre Graphics Meeting](https://libregraphicsmeeting.org) in 2006, and became fascinated with the potential of unrestricted licensing to improve the design process.
 He spent the last 10 years working to liberate typography, mainly as a program manager for [Google Fonts](https://fonts.google.com).
-He regularly contributes to the [Crafting Type](https://craftingtype.com), [TruFont](https://trufont.github.io] and [Metapolator](https://metapolator.com) projects. 
+He regularly contributes to the [Crafting Type](https://craftingtype.com), [TruFont](https://trufont.github.io) and [Metapolator](https://metapolator.com) projects. 
 
 We hope to see you there!
 
@@ -30,3 +30,13 @@ The meetup will take place in [ThoughtWorks offices, 99 Madison Avenue](https://
 - **Date:** Thurs, Jan 18 2018
 - **Time:** 6:00pm - 8.00pm (EDT)
 - **Where:** New York
+
+## Links
+
+* https://opensource.com/life/13/11/dave-crossland-history-future-open-source-fonts
+* https://mobile.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
+* https://medium.com/@cdixon/crypto-tokens-a-breakthrough-in-open-network-design-e600975be2ef
+* https://www.forbes.com/sites/rahulsingireddy/2017/10/18/vinay-gupta-on-why-ethereum-is-the-future/#e84a07656f29
+* https://medium.com/humanizing-the-singularity/by-the-end-of-this-article-youre-going-to-understand-blockchains-in-general-and-ethereum-a-next-e11df6a1d7cf
+* https://hbr.org/2017/03/the-promise-of-blockchain-is-a-world-without-middlemen
+* https://hbr.org/2017/02/a-brief-history-of-blockchain
