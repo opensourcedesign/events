@@ -19,7 +19,7 @@ At this meeting, long time libre font activist Dave Crossland will discuss the p
 
 Dave Crossland attended the first [Libre Graphics Meeting](https://libregraphicsmeeting.org) in 2006, and became fascinated with the potential of unrestricted licensing to improve the design process.
 He spent the last 10 years working to liberate typography, mainly as a program manager for [Google Fonts](https://fonts.google.com).
-He regularly contributes to the [Crafting Type](https://craftingtype.com), [TruFont](https://trufont.github.io] and [Metapolator](https://metapolator.com) projects. 
+He regularly contributes to the [Crafting Type](https://craftingtype.com), [TruFont](https://trufont.github.io) and [Metapolator](https://metapolator.com) projects. 
 
 We hope to see you there!
 
