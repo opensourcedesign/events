@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Sun, 4 Feb 2018
 location: K.4.201, Université Libre Brussels (Solbosch campus), Belgium
 time: pending
-status: past
+status: upcoming
 redirect_from: /design/hack/meeting/2018/02/04/opensourcedesign-fosdem.html
 permalink: /2018/02/04/opensourcedesign-fosdem-2018
 ---
