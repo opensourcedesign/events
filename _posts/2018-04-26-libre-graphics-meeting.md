@@ -4,7 +4,7 @@ title:  "Libre Graphics Meeting 2018"
 date:   2018-04-26
 categories: design hack meeting
 eventDate: Thu, 26 April 2018 – Mon, 30 April 2018
-location: Sevilla, Spain
+location: C / Pasaje Mallol 22, 41003, Seville, Spain
 time: full days
 status: upcoming
 permalink: /2018/4/26/libre-graphics-meeeting
@@ -18,8 +18,4 @@ The LGM aims to bring these people together in the cause of creating high qualit
 LGM promotes discussions amongst software developers, users, and the large intersection of those two categories.
 Unlike many events devoted to Free/Libre Open Source Software, LGM has always had a strong artistic focus, with designers and artists showcasing their work alongside the work of software developers.
 
-## Date & Location
-
-- **Date:** Thu, 26 April 2018 – Mon, 30 April 2018
-- **Time:** full days
-- **Where:** [Tramallol](http://www.tramallol.cc/compartir_espacio/), C / Pasaje Mallol 22, 41003, Seville, Spain
+**Map:** [Tramallol](http://www.tramallol.cc/compartir_espacio/)
