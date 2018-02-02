@@ -56,8 +56,4 @@ The deadline for submissions is **January 10th, 2018**, and participants will be
 
 Participation and attendance is totally free, though the organisers gratefully accept donations and sponsorship.
 
-## Date & Location
-
-- **Date:** Fri, 9 Mar 2018
-- **Time:** full day
-- **Where:** [Pasadena Convention Center](https://www.socallinuxexpo.org/scale/16x/venue), California, USA
+**Map:** [Pasadena Convention Center](https://www.socallinuxexpo.org/scale/16x/venue)
