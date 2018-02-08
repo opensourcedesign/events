@@ -6,7 +6,7 @@ categories: design meetup community
 eventDate: Thurs, 09 Nov 2017
 location: New York
 time: 6:00pm - 8.00pm (EDT)
-status: upcoming
+status: past
 ---
 
 Calling Open Source Design enthusiasts living in NYC and around to join us for our next meetup on open design toolkit. This will be a fun evening reviewing Jessica Klein's toolkit and discussion how it can/will help the design OS community.

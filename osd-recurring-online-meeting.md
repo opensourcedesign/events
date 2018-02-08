@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Open Source Design Monthly Online Meeting"
 date:   2017-05-02
 categories: online meet-up
