@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Thu, 26 April 2018 – Mon, 30 April 2018
 location: C / Pasaje Mallol 22, 41003, Seville, Spain
 time: full days
-status: upcoming
+status: past
 permalink: /2018/4/26/libre-graphics-meeeting
 ---
 

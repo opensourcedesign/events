@@ -6,7 +6,7 @@ categories: design hack meeting graphics
 eventDate: Fri, 9 Mar 2018
 location: Pasadena Convention Center, Pasadena, CA USA
 time: full day
-status: upcoming
+status: past
 redirect_from: /design/hack/meeting/2018/02/04/fosdem.html
 permalink: /2018/03/09/lg-scale-2018
 ---
