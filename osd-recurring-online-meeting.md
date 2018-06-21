@@ -12,9 +12,10 @@ permalink: /open-source-design-monthly-online-meeting/
 
 Join us for our monthly get together where we talk about all things Open Source Design. Everyone is welcome.
 
-To see what we talked about in previous meetings, check out the ["monthly call" category on the forum](https://discourse.opensourcedesign.net/c/meta/monthly-call).
+To see what we talked about in previous meetings, check out the ["Monthly call" category on the forum](https://discourse.opensourcedesign.net/c/meta/monthly-call).
 
-To get notifications of the monthly meeting and other events, you can subscribe to our Open Source Design events calendar: [Open Source Design calendar](https://cloud.nextcloud.com/index.php/apps/calendar/p/MIFAFLFJADIVX63I/Open-Source-Design)
+To get notifications of this meeting and other events, you can subscribe to our Open Source Design events calendar: [Open Source Design calendar](https://cloud.nextcloud.com/index.php/apps/calendar/p/MIFAFLFJADIVX63I/Open-Source-Design)
+
 
 ## Date & Location
 
