@@ -4,7 +4,7 @@ title:  "Open Source Design monthly call"
 date:   2018-07-04
 categories: online meet-up
 eventDate: Every First Wednesday
-location: Online at [https://meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign)
+location: Online
 time:  19:00-20:00 (Berlin Time)
 status: upcoming
 permalink: /open-source-design-monthly-online-meeting/
