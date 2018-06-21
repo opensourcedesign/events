@@ -14,8 +14,7 @@ Join us for our monthly get together where we talk about all things Open Source 
 
 To see what we talked about in previous meetings, check out the ["monthly call" category on the forum](https://discourse.opensourcedesign.net/c/meta/monthly-call).
 
-You can also subscribe to the calendar with this meeting in it as well as other related Open Source Design events: [Open Source Design calendar](https://cloud.nextcloud.com/index.php/apps/calendar/p/MIFAFLFJADIVX63I/Open-Source-Design)
-
+To get notifications of the monthly meeting and other events, you can subscribe to our Open Source Design events calendar: [Open Source Design calendar](https://cloud.nextcloud.com/index.php/apps/calendar/p/MIFAFLFJADIVX63I/Open-Source-Design)
 
 ## Date & Location
 
