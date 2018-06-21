@@ -6,7 +6,7 @@ categories: design meetup community
 eventDate: Thu, 24 May 2018
 location: New York
 time: 6:00pm - 8.00pm (EDT)
-status: upcoming
+status: past
 ---
 
 Please join us on Thursday evening for a presentation and Q&A on [Cita](http://citapress.org) with Juliana Castro.
