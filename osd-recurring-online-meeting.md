@@ -1,30 +1,19 @@
 ---
 layout: event
-title:  "Open Source Design Monthly Online Meeting"
-date:   2017-05-02
+title:  "Open Source Design monthly call"
+date:   2018-07-04
 categories: online meet-up
-eventDate: Every First Tuesday
-location: Online at [https://meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign)
-time:  7:00 PM to ... (Berlin Time)
+eventDate: Every First Wednesday
+location: Online
+time:  19:00-20:00 (Berlin Time)
 status: upcoming
 permalink: /open-source-design-monthly-online-meeting/
 ---
 
 Join us for our monthly get together where we talk about all things Open Source Design. Everyone is welcome.
 
-To see what we talked about in previous meetings, look at:
+These monthly meetings happen as a voice/video call using Jitsi at [meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign).
 
-[github.com/opensourcedesign/events/issues/49](https://github.com/opensourcedesign/events/issues/49)
+To see what we talked about in previous meetings, check out the ["Monthly call" category on the forum](https://discourse.opensourcedesign.net/c/meta/monthly-call).
 
-You can also subscribe to the calendar with this meeting in it as well as other related Open Source Design events:
-
-[cloud.nextcloud.com/apps/calendar/public/MIFAFLFJADIVX63I](https://cloud.nextcloud.com/apps/calendar/public/MIFAFLFJADIVX63I)
-
-
-## Date & Location
-
-Our next event is:
-
-- **Date:** Tue, 1 August 2017
-- **Time:** 7:00 PM to ... (Berlin Time)
-- **Where:** Online at [https://meet.jit.si/opensourcedesign](https://meet.jit.si/opensourcedesign)
+To get notifications of this meeting and other events, you can subscribe to our Open Source Design events calendar: [Open Source Design calendar](https://cloud.nextcloud.com/index.php/apps/calendar/p/MIFAFLFJADIVX63I/Open-Source-Design)

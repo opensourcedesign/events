@@ -4,7 +4,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   We are a community of designers and developers aiming to push more open design processes and improve the design of open source apps
 baseurl: "/events"
-url: "http://opensourcedesign.net"
+url: "https://opensourcedesign.net"
 
 twitter_username: opensrcdesign
 github_username:  opensourcedesign
