@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Foss North, Gothenberg"
+title:  "Foss North, Gothenberg 2017"
 date:   2017-04-26
 categories: talk
 eventDate: April 26th, 2017

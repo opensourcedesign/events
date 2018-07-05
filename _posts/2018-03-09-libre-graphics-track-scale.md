@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Libre Graphics Track at Southern California Linux Expo (SCaLE)"
+title: "Libre Graphics Track at Southern California Linux Expo (SCaLE) 2018"
 date: 2018-03-09
 categories: design hack meeting graphics
 eventDate: Fri, 9 Mar 2018
