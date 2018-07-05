@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Open Source Design monthly call"
-date:   2018-07-04
+date:   2018-08-01
 categories: online meet-up
 eventDate: Every First Wednesday
 location: Online
