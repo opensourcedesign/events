@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Open Source Design NYC: Sep 27"
+title:  "Open Source Design NYC: Sep 27 2017"
 date:   2017-09-27
 categories: design meetup community
 eventDate: Wed, 27 Sep 2017
