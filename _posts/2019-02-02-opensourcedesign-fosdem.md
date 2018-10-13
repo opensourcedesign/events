@@ -38,7 +38,7 @@ In the past we've had talks about [getting designers involved in open source](ht
 
 If you're interested in seeing all previous talks, have a look at the schedule, and videos for [2018](https://archive.fosdem.org/2018/schedule/track/open_source_design/), [2017](https://archive.fosdem.org/2017/schedule/track/open_source_design/), [2016](https://archive.fosdem.org/2016/schedule/track/open_source_design/) and [2015](https://archive.fosdem.org/2015/schedule/track/open_source_design/).
 
-### Recording and licensing of talks:
+### Recording and licensing of talks
 
 The talks in the Open Source Design devroom will be audio and video recorded, and possibly streamed live too.
 
@@ -46,23 +46,23 @@ By submitting a proposal you consent to be recorded and agree to license the con
 
 ### What and how to submit
 
-#### Submission format:
+#### Submission format
 
 20-minute presentations
 
-#### Submission deadline:
+#### Submission deadline
 
 1st December 2018
 
 #### How to submit
 
-All submissions are made in the [Pentabarf event planning tool ](https://penta.fosdem.org/submission/FOSDEM18/) at [https://penta.fosdem.org/submission/FOSDEM18/](https://penta.fosdem.org/submission/FOSDEM18/)
+All submissions are made in the [Pentabarf event planning tool ](https://penta.fosdem.org/submission/FOSDEM19/) at [https://penta.fosdem.org/submission/FOSDEM18/](https://penta.fosdem.org/submission/FOSDEM19/)
 
 When submitting your talk in Pentabarf, when asked for the ‘Track’, you must select the ‘Open source design devroom’.
 
 If you already have a Pentabarf account from a previous year, please reuse it: create an account if, and only if, you don’t have one from a previous year.
 
-If you have any issues with Pentabarf, do not despair: contact bernard+fosdem at ei8fdb dot org
+If you have any issues with Pentabarf, do not despair contact - bernard+fosdem at ei8fdb dot org
 
 ### Who co-ordinates Open Source Design devroom
 
