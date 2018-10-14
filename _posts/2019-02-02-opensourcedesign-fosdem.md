@@ -56,7 +56,7 @@ By submitting a proposal you consent to be recorded and agree to license the con
 
 #### How to submit
 
-All submissions are made in the [Pentabarf event planning tool ](https://penta.fosdem.org/submission/FOSDEM19/) at [https://penta.fosdem.org/submission/FOSDEM18/](https://penta.fosdem.org/submission/FOSDEM19/)
+All submissions are made in the [Pentabarf event planning tool ](https://penta.fosdem.org/submission/FOSDEM19/) at [https://penta.fosdem.org/submission/FOSDEM19/](https://penta.fosdem.org/submission/FOSDEM19/)
 
 When submitting your talk in Pentabarf, when asked for the ‘Track’, you must select the ‘Open source design devroom’.
 
