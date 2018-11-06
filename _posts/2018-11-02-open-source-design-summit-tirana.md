@@ -6,7 +6,7 @@ categories: design meetup community
 eventDate: Fri, 02 Nov 2018 - Sun, 04 Nov 2018
 location: Tirana, Albania
 time: full days
-status: upcoming
+status: past
 ---
 
 We're organizing a summit for all designers and developers interested in cheerleading great design in open source. It will take place in Tirana, Albania.
