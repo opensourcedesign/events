@@ -52,7 +52,7 @@ By submitting a proposal you consent to be recorded and agree to license the con
 
 #### Submission deadline:
 
-1st December 2018
+8th December 2018
 
 #### How to submit
 
