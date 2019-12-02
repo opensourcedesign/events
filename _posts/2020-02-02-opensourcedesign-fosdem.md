@@ -15,7 +15,7 @@ permalink: /2020/02/02/opensourcedesign-fosdem-2020
 
 After 5 successful years we will host another design devroom at FOSDEM 2020!
 
-The Open Source Design devroom will take place on **Sunday, February 2nd**, in the [Solbosch campus of the Université Libre Brussels](https://osm.org/go/0EoSssl_x-?way=150213175). The exact room will be confirmed in the coming months.
+The Open Source Design devroom will take place on **Sunday, February 2nd**, in the [Solbosch campus of the Université Libre Brussels](https://osm.org/go/0EoSssl_x-?way=150213175) in room H.2213.
 
 This will be a full day of talks about design work on free, libre and open source projects.
 
@@ -63,6 +63,8 @@ When submitting your talk in Pentabarf, when asked for the ‘Track’, you must
 If you already have a Pentabarf account from a previous year, **please reuse it**. Create an account if, and only if, you don’t have one from a previous year.
 
 If you have any issues with Pentabarf, do not despair contact - amit dot lzkpa at gmail dot com
+
+At this moment we are unable to confirm the receipt of your proposals. Decisions regarding confirmation will go out by December 25th, 2019. If you have any issues with the submission system please reach the coordinator or post on the [discourse](https://discourse.opensourcedesign.net/t/fosdem-2020-open-source-design-organisation).
 
 ### Who co-ordinates Open Source Design devroom
 
