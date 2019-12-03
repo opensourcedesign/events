@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Open Design @ DesignUP!: Bangalore, Nov 14th"
-date:   2019-14-11
+date:   2019-11-14
 categories: design hack meeting
 eventDate: Thursday, 14th Nov 2019
 location: Bangalore, India
