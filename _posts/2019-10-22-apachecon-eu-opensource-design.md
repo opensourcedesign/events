@@ -6,7 +6,7 @@ categories: conference
 eventDate: 22  - 24 Sat, 2 Feb 2019
 location: Room not yet confirmed, Kulturbrauerei, Schönhauser Allee 36 10435 Berlin, Germany
 time: full days
-status: upcoming
+status: past
 redirect_from: /design/hack/meeting/2019/02/02/opensourcedesign-fosdem.html
 permalink: /2019/10/22/opensourcedesign-apachecon-eu-2019
 ---
