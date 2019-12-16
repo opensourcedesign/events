@@ -6,7 +6,7 @@ categories: conference , workshop
 eventDate: Fri, 25 Oct 2019
 location: Room yet to be confirmed at c-base, Rungestraße 20, 10179 Berlin, Germany
 time: 10:00 - 14:00
-status: upcoming
+status: past
 redirect_from: /design/hack/meeting/2019/02/02/opensourcedesign-fosdem.html
 permalink: /2019/10/22/opensourcedesign-usability-workshop-apachecon-eu-2019
 ---
