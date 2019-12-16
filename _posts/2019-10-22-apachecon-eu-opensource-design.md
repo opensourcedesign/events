@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Call for Participation: Open Source Design track at ApacheCon Europe 2019"
+title:  "Open Source Design track at ApacheCon Europe 2019"
 date:   2019-10-22
 categories: conference
 eventDate: 22  - 24 Sat, 2 Feb 2019
