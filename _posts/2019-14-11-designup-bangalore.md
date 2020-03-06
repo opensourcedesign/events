@@ -6,7 +6,7 @@ categories: design hack meeting
 eventDate: Thursday, 14th Nov 2019
 location: Bangalore, India
 time: full days
-status: future
+status: past
 ---
 
 A workshop organised by the team from Open Design + Ushahidi hosted and supported by DesignUP! conference. It will take place in Bangalore, India.
